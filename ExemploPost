@@ -1,0 +1,10 @@
+name: Marco/21
+month: 3
+year: 2021
+credits[0][name]: Salario
+credits[0][value]: 10000
+credits[1][name]: Projeto
+credits[1][value]: 1800
+debts[0][name]: Netflix
+debts[0][value]: 45.50
+debts[0][status]:PAGO
